@@ -10,7 +10,7 @@ Subjective Questions:- Subjective questions were addressed by suggesting countri
 
 Dashboard Development:- The dashboard consists of year-wise and country slicers to enable interactive exploration of the data. Learners have utilized various Excel functions and visualization techniques to create informative dashboards.
 
-Getting Started:- 1- Clone the repository to your local machine: git clone https://github.com/Gaurav-Singh-DS/Zomato-Data-Analysis.git 2- Navigate to the project directory: cd Zomato-Data-Analysis 3- Explore the dataset, scripts, and documentation provided in the repository to understand the project components and methodologies used.
+Getting Started:- 1- Clone the repository to your local machine: https://github.com/kajal-singh-27/zomato-restaurant-expansion/tree/main Navigate to the project directory: cd Zomato-Data-Analysis 3- Explore the dataset, scripts, and documentation provided in the repository to understand the project components and methodologies used.
 
 Dependencies:- Microsoft Excel Basic understanding of Excel functions and pivot tables
 
